@@ -15,7 +15,7 @@ Concepts
 
 Projects
 
-1. Developers workplace data management system
+1. Database-driven developers workplace data management system
 
 Type: Object-Oriented Data Management System
 Focus: OOP, structured design
@@ -70,12 +70,13 @@ Key Features:
 - PyGame (for game development)
 - SQLAlchemy (for database development and management)
 
-5. How to run
+5. Project structure
 
-git clone <repo-link>
-cd <project-folder>
-python main.py
-
+- roles.py – defines user roles and permissions
+- assignments.py – handles task/role        assignments logic
+- company.py – manages employee/company data
+- database_security.py – handles authentication and security logic
+ 
 
  
 
