@@ -31,6 +31,13 @@ Key features:
 - CRUD operations
 - Formatted console output
 
+1.1 Project structure
+
+- roles.py – defines user roles and permissions
+- assignments.py – handles task/role        assignments logic
+- company.py – manages employee/company data
+- database_security.py – handles authentication and security logic
+ 
 2. Conway's Game Of Life
 
 Type: Simulation/Zero-player game
@@ -70,13 +77,7 @@ Key Features:
 - PyGame (for game development)
 - SQLAlchemy (for database development and management)
 
-5. Project structure
 
-- roles.py – defines user roles and permissions
-- assignments.py – handles task/role        assignments logic
-- company.py – manages employee/company data
-- database_security.py – handles authentication and security logic
- 
 
  
 
