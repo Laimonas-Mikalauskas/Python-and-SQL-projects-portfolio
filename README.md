@@ -8,7 +8,7 @@ Concepts
 
 - Object-Oriented-Programming (objects, classes, attributes, inheritance, encapsulation)
 - Data management and structured database design
-- Event-driven programming (program start, events detection, continuous event loops running, corresct handler execution)
+- Event-driven programming (program start, events detection, continuous event loops running, correct handler execution)
 - Game loop implementation (while, for)
 - Error handling and input validation
 - Modular and maintainable code design
