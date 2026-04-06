@@ -9,7 +9,7 @@ Concepts
 - Object-Oriented-Programming (objects, classes, attributes, inheritance, encapsulation)
 - Data management and structured database design
 - Event-driven programming (program start, events detection, continuous event loops running, correct handler execution)
-- Game loop implementation (while, for)
+- Loop implementation (while, for)
 - Error handling and input validation
 - Modular and maintainable code design
 
@@ -59,7 +59,7 @@ Key Features:
 3. Space Shooter Prototype
 
 Type: Interactive Game
-Focus: Event-driven programming, game loops
+Focus: Event-driven programming, game loops, OOP
 
 Description:
 A simple space shooter game prototype developed with PyGame that demonstrates real-time input handling and continuous game loops.
