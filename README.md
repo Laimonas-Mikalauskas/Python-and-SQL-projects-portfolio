@@ -33,8 +33,8 @@ Key features:
 
 1.1 Project structure
 
-- roles.py – defines user roles and permissions
-- assignments.py – handles task/role        assignments logic
+- roles.py – defines user roles 
+- assignments.py – handles task, assignments logic
 - company.py – manages employee/company data
 - database_security.py – handles authentication and security logic
  
@@ -52,7 +52,7 @@ automaton behavior.
 Key Features:
 
 - Grid-based state management
-- Ruke-based evolution system
+- Rule-based evolution system
 - Efficient update logic
 - Visualisation of animation states
 
@@ -62,7 +62,7 @@ Type: Interactive Game
 Focus: Event-driven programming, game loops
 
 Description:
-A simple space shooter game prototype developed using PyGame, demonstrating real-time input handling and continuous game loops.
+A simple space shooter game prototype developed with PyGame that demonstrates real-time input handling and continuous game loops.
 
 Key Features:
 - Game loop implementation
