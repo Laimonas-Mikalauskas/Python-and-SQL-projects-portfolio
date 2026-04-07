@@ -6,7 +6,7 @@ and scalability of databases and games development by applying creative, analyti
 
 Concepts
 
-- Object-Oriented-Programming (objects, classes, attributes, inheritance as acore of OOP design)
+- Object-Oriented-Programming (objects, classes, attributes, inheritance as core of OOP design)
 - Data management and structured database design
 - Event-driven programming (program start, events detection, continuous event loops running, correct handler execution)
 - Loop implementation (while, for)
