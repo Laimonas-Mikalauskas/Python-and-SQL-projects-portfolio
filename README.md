@@ -12,6 +12,7 @@ Concepts
 - Loop implementation (while, for)
 - Error handling and input validation
 - Modular and maintainable code design
+- Formatted console output for displaying processed data and program results 
 
 Projects
 
