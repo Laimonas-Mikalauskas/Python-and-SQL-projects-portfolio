@@ -19,6 +19,7 @@ Projects
 1. Database-driven developers workplace data management system
 
 Type: Object-Oriented Data Management System
+
 Focus: OOP, structured design
 
 Description:
@@ -42,6 +43,7 @@ Key features:
 2. Conway's Game Of Life
 
 Type: Simulation/Zero-player game
+
 Focus: Algorithms, grid-based logic, OOP
 
 Description:
@@ -60,6 +62,7 @@ Key Features:
 3. Space Shooter Prototype
 
 Type: Interactive Game
+
 Focus: Event-driven programming, game loops, OOP
 
 Description:
