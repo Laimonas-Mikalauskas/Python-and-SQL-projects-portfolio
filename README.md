@@ -71,8 +71,10 @@ A simple space shooter game prototype developed with PyGame that demonstrates re
 Key Features:
 - Game loop implementation
 - Event-driven input handling
-- Object-oriented game entities (player, enemies, projectiles)
+- Object-oriented game entities (player, enemies, projectiles, health)
 - Basic collision detection
+- Player and enemies movement 
+
 
 4. Tech Stack
 
