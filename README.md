@@ -66,14 +66,16 @@ Type: Interactive Game
 Focus: Event-driven programming, game loops, OOP
 
 Description:
-A simple space shooter game prototype developed with PyGame that demonstrates real-time input handling and continuous game loops.
+A simple space shooter game prototype developed with PyGame 
+that demonstrates real-time input handling and continuous game loops.
 
 Key Features:
 - Game loop implementation
 - Event-driven input handling
 - Object-oriented game entities (player, enemies, projectiles, health)
 - Basic collision detection
-- Player and enemies movement 
+- Player and enemies movement
+- Implementation of SQLAlchemy for players info and score management 
 
 
 4. Tech Stack
