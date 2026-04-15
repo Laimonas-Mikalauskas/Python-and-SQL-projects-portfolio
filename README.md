@@ -67,7 +67,8 @@ Focus: Event-driven programming, game loops, OOP
 
 Description:
 A simple space shooter game prototype developed with PyGame 
-that demonstrates real-time input handling and continuous game loops.
+that demonstrates real-time player, enemies and projectiles movement
+by simulating real battle 
 
 Key Features:
 - Game loop implementation
