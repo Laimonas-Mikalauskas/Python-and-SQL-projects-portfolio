@@ -35,10 +35,10 @@ Key features:
 
 1.1 Project structure
 
-- roles.py – defines user roles 
+- roles.py – defines employee roles, experience and personal information
 - assignments.py – handles task, assignments logic
-- company.py – manages employee/company data
-- database_security.py – handles authentication and security logic
+- company.py – manages company data
+- database_security.py – handles user data security logic
  
 2. Conway's Game Of Life
 
