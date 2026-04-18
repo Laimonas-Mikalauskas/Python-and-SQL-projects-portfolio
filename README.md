@@ -76,7 +76,7 @@ Key Features:
 - Object-oriented game entities (player, enemies, projectiles, health)
 - Basic collision detection
 - Player and enemies movement
-- Implementation of SQLAlchemy for players info and score management 
+- Implementation of SQLAlchemy ORM for scalable players info and score management 
 
 
 4. Tech Stack
@@ -84,7 +84,7 @@ Key Features:
 - Python
 - OOP (classes, inheritance, encapsulation)
 - PyGame (for game development)
-- SQLAlchemy (for database development and management)
+- SQLAlchemy ORM (for database development and management)
 
 
 
