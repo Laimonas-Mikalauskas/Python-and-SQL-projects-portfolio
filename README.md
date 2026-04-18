@@ -2,7 +2,7 @@ Introduction
 
 This repository shows practical application of core Python fundamentals with a focus on object-oriented-programming (OOP).
 It includes multiple projects ranging from data management systems to interactive games that demonstrates clean code structure 
-and ensures scalability of data management operations and smooth applications runtime by applying creative, analytical thinking and problem solving skills
+by ensuring scalability of data management operations and smooth applications runtime by applying creative, analytical thinking and problem solving skills
 
 Concepts
 
