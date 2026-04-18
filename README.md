@@ -38,7 +38,7 @@ Key features:
 - roles.py – defines employee roles, experience and personal information
 - assignments.py – handles task, assignments logic
 - company.py – manages company data
-- database_security.py – handles user data security logic
+- security.py – handles user data security logic
  
 2. Conway's Game Of Life
 
