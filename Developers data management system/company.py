@@ -36,7 +36,7 @@ class Employee(Base):
     id = Column(Integer, primary_key=True)
     name = Column(String)
     position = Column(String)
-    department = Column("information technology, finance, cybersecurity", String)
+    department = Column("finance, cybersecurity", String)
 
 def __init__(self, name: str, position: str, department: str):
         self.name = name
