@@ -22,18 +22,18 @@ Type: Object-Oriented Data Management System
 
 Focus: OOP, structured design
 
-Description:
+1.1 Description:
 
 A class-based system for managing workplace data, designed to simulate real-world data
 management operations by using structured object relationships
 
-Key features:
+1.2 Key features:
 
 - Class-based architecture
 - CRUD operations
 - Formatted console output
 
-1.1 Project structure
+1.3 Project structure
 
 - roles.py – defines employee roles, experience and personal information
 - assignments.py – handles task, assignments logic
@@ -46,13 +46,13 @@ Type: Simulation/Zero-player game
 
 Focus: Algorithms, grid-based logic, OOP
 
-Description:
+2.1 Description:
 
 An implementation of Conway's Game Of Life by using
 objest-oriented programming design to simulate cellular
 automaton behavior.
 
-Key Features:
+2.2 Key Features:
 
 - Grid-based state management
 - Rule-based evolution system
@@ -65,12 +65,14 @@ Type: Interactive Game
 
 Focus: Event-driven programming, game loops, OOP
 
-Description:
+3.1 Description:
+
 A simple space shooter game prototype developed with PyGame 
 that demonstrates real-time player, enemies and projectiles movement
 by simulating real battle 
 
-Key Features:
+3.2 Key Features:
+
 - Game loop implementation
 - Event-driven input handling
 - Object-oriented game entities (player, enemies, projectiles, health)
@@ -78,6 +80,11 @@ Key Features:
 - Player and enemies movement
 - Implementation of SQLAlchemy ORM for scalable players info and score management 
 
+3.3 Project structure 
+
+space.py defines gameplay, game characters, collision detection 
+data.py stores main player info such as scores, rankings, levels
+app.py defines game backend operations 
 
 4. Tech Stack
 
