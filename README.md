@@ -83,7 +83,9 @@ by simulating real battle
 3.3 Project structure 
 
 space.py defines gameplay, game characters, collision detection 
+
 data.py stores main player info such as scores, rankings, levels
+
 app.py defines game backend operations 
 
 4. Tech Stack
