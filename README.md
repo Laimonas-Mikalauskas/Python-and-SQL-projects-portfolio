@@ -16,15 +16,15 @@ Concepts
 
 Projects
 
-1. Database-driven developers workplace data management system
+1. Back-end-driven developers workplace data management and task tracking system
 
-Type: Object-Oriented Data Management System
+Type: Object-Oriented Data Management And Task Tracking System
 
 Focus: OOP, structured design
 
 1.1 Description:
 
-A class-based system for managing workplace data, designed to simulate real-world data
+A class-based workplace data management and task tracking system for managing workplace data, designed to simulate real-world data
 management operations by using structured object relationships
 
 1.2 Key features:
@@ -32,6 +32,7 @@ management operations by using structured object relationships
 - Class-based architecture
 - CRUD operations
 - Formatted console output
+- Backend logic 
 
 1.3 Project structure
 
@@ -39,6 +40,7 @@ management operations by using structured object relationships
 - assignments.py – handles task, assignments logic
 - company.py – manages company data
 - security.py – handles user data security logic
+- app.py - tracks task progress and updates
  
 2. Conway's Game Of Life
 
