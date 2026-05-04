@@ -96,6 +96,7 @@ app.py - defines game backend operations
 - OOP (classes, inheritance, encapsulation)
 - PyGame (for game development)
 - SQLAlchemy ORM (for database development and management)
+- Flask (for lightweight web applications development)
 
 
 
