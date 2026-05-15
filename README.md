@@ -8,7 +8,7 @@ Concepts
 
 - Object-Oriented-Programming (objects, classes, attributes, inheritance as core of OOP design)
 - Data management and structured database design
-- Event-driven programming (program start, events detection, continuous event loops running, correct handler execution)
+- Event-driven programming (program start, events detection, continuous event loops running,          correct handler execution)
 - Loop implementation (while, for)
 - Error handling and input validation
 - Modular and maintainable code design
@@ -80,7 +80,8 @@ by simulating real battle
 - Object-oriented game entities (player, enemies, projectiles, health)
 - Basic collision detection
 - Player and enemies movement
-- Implementation of SQLAlchemy ORM for scalable players info and score management 
+- Implementation of SQLAlchemy ORM for scalable players info and score management
+- Backend logic 
 
 3.3 Project structure 
 
