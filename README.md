@@ -24,7 +24,7 @@ Focus: OOP, structured design
 
 1.1 Description:
 
-A class-based workplace data management and task tracking system for managing workplace data, designed to simulate real-world data
+A class-based workplace data management and task tracking system for managing employee data and task progress, designed to simulate real-world data
 management operations by using structured object relationships
 
 1.2 Key features:
