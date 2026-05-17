@@ -93,8 +93,8 @@ app.py - defines game backend operations
 
 4. Tech Stack
 
-- Python
-- OOP (classes, inheritance, encapsulation)
+- Python (data types, formatted console output, loops, exception handling)
+- OOP (classes, attributes and its initialisation, inheritance, encapsulation)
 - PyGame (for game development)
 - SQLAlchemy ORM (for database development and management)
 - Flask (for lightweight web applications development)
