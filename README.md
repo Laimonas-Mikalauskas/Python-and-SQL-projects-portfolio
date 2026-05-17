@@ -77,7 +77,7 @@ by simulating real battle
 
 - Game loop implementation
 - Event-driven input handling
-- Object-oriented game entities (player, enemies, projectiles, health)
+- Object-oriented game entities (player, enemies, projectiles, health, stars)
 - Basic collision detection
 - Player and enemies movement
 - Implementation of SQLAlchemy ORM for scalable players info and score management
