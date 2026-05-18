@@ -53,9 +53,9 @@ A class-based workplace data management and task tracking system for managing an
 - Formatted console output to display SQL query results
 - Control flow (while, for loops to execute program repeatedly) 
 - Backend logic by implementing Flask routing, templates rendering
-- HTTP methods such as GET, POST that lets client to retrieve data from server and send it to the     server to proceed the info
+- HTTP methods such as GET, POST that lets client to retrieve data from server and send it to the server to proceed the info
 - Simple webpage layout developed with HTML
-- Responsive design-based UI created with CSS
+- Responsive design-based task management app UI created with CSS
 
 2.3 Project structure
 
