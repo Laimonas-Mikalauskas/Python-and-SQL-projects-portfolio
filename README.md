@@ -108,7 +108,7 @@ player, enemies and projectiles movement by simulating real battle
 - data.py - stores main player info such as scores, rankings, levels
 - app.py - performs game backend operations 
 
-4. Tech Stack
+5. Tech Stack
 
 - Python (data types, formatted console output, control flow, exception handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation)
