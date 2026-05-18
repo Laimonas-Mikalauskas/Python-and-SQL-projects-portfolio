@@ -1,7 +1,7 @@
 Introduction
 
 This repository shows practical application of core Python fundamentals with a focus on object-oriented-programming (OOP).
-It includes multiple projects ranging from data management systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth applications runtime by applying creative, analytical thinking and problem solving skills
+It includes multiple projects ranging from back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth applications runtime by applying creative, analytical thinking and problem solving skills
 
 Concepts
 
@@ -17,7 +17,7 @@ Projects
 
 1. Database-driven book library data management system
 
-Type: Object-oriented sata management system
+Type: Object-oriented library data management system
 
 Focus: OOP, structured database design
 
@@ -28,13 +28,13 @@ that simulates real world book data management operations by using structured ob
 
 1.2 Key features:
 
-- Class-based architecture
-- CRUD operations
-- ORM models and relationships
-- Formatted console output
-- Control flow
+- Class-based architecture for structured and maintainable code design
+- CRUD operations for data storage, retrieval, update and deletion
+- ORM models and relationships for scalable data management
+- Formatted console output to display SQL query results
+- Control flow (while, for loops to execute program repeatedly) 
 
-2. Back-end-driven developers workplace data management and task tracking system
+2. Front-end and back-end-driven developers workplace data management and task tracking system
 
 Type: Object-Oriented Data Management And Task Tracking System
 
@@ -42,17 +42,20 @@ Focus: OOP, structured database design
 
 2.1 Description:
 
-A class-based workplace data management and task tracking system for managing and securing employee personal data. Also it tracks task progress and it is designed to simulate real-world employee data management, task trcking and security operations by using structured object relationships and backend logic
+A class-based workplace data management and task tracking system for managing and securing employee personal data. Also it tracks task progress and it is designed to simulate real-world employee data management, task tracking and security operations by using structured object relationships and backend logic combined with friendly UI.
 
 2.2 Key features:
 
-- Class-based architecture
-- CRUD operations
-- ORM models and relationships
-- ORM-based parametric queries
-- Formatted console output 
-- Control flow
-- Backend logic 
+- Class-based architecture to maintain and structure Python code design
+- CRUD operations for data storage, retrieval, update and deletion
+- ORM models and relationships for scalable data management
+- ORM-based parametric queries to eliminate SQL injection risks 
+- Formatted console output to display SQL query results
+- Control flow (while, for loops to execute program repeatedly) 
+- Backend logic by implementing Flask routing, templates rendering
+- HTTP methods such as GET, POST that lets client to retrieve data from server and send it to the     server to proceed the info
+- Simple webpage layout developed with HTML
+- Responsive design-based UI created with CSS
 
 2.3 Project structure
 
@@ -60,7 +63,9 @@ A class-based workplace data management and task tracking system for managing an
 - assignments.py – handles task, assignments logic
 - company.py – manages company data
 - security.py – handles user data security logic
-- app.py - tracks task progress and updates by using backend logic
+- task_manager.py - tracks task progress and updates by using backend logic
+- task_manasger.html - creates web application layout
+- task_manager.css - creates simple UI 
  
 3. Conway's Game Of Life
 
@@ -79,7 +84,7 @@ An implementation of Conway's Game Of Life by using objest-oriented programming 
 - Efficient update logic
 - Visualisation of animation states
 - Event driven input handling
-- Control flow
+- Control flow (while, for loops)
 
 4. Space Shooter Prototype
 
@@ -94,11 +99,12 @@ player, enemies and projectiles movement by simulating real battle
 
 4.2 Key Features:
 
-- Game loop architecture
+- Game loop architecture (while, for loops)
 - Event-driven input handling
 - Object-oriented game entities (player, enemies, projectiles, health, stars)
 - Basic collision detection
 - Player and enemies movement
+- Visualisation of animation states 
 - Implementation of SQLAlchemy ORM for scalable players info and score management operations
 - Backend logic 
 
