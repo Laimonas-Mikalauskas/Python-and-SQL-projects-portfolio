@@ -1,8 +1,7 @@
 Introduction
 
 This repository shows practical application of core Python fundamentals with a focus on object-oriented-programming (OOP).
-It includes multiple projects ranging from data management systems to interactive games that demonstrates clean code structure 
-by ensuring scalability of data management operations and smooth applications runtime by applying creative, analytical thinking and problem solving skills
+It includes multiple projects ranging from data management systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth applications runtime by applying creative, analytical thinking and problem solving skills
 
 Concepts
 
@@ -16,88 +15,106 @@ Concepts
 
 Projects
 
-1. Back-end-driven developers workplace data management and task tracking system
+1. Database-driven book library data management system
 
-Type: Object-Oriented Data Management And Task Tracking System
+Type: Object-oriented sata management system
 
-Focus: OOP, structured design
+Focus: OOP, structured database design
 
 1.1 Description:
 
-A class-based workplace data management and task tracking system for managing employee data and task progress, designed to simulate real-world data
-management operations by using structured object relationships
+A class-based book library data management system for managing borrowed and returned books info
+that simulates real world book data management operations by using structured object relationships
 
 1.2 Key features:
 
 - Class-based architecture
 - CRUD operations
+- ORM models and relationships
 - Formatted console output
+- Control flow
+
+2. Back-end-driven developers workplace data management and task tracking system
+
+Type: Object-Oriented Data Management And Task Tracking System
+
+Focus: OOP, structured database design
+
+2.1 Description:
+
+A class-based workplace data management and task tracking system for managing and securing employee personal data. Also it tracks task progress and it is designed to simulate real-world employee data management, task trcking and security operations by using structured object relationships and backend logic
+
+2.2 Key features:
+
+- Class-based architecture
+- CRUD operations
+- ORM models and relationships
+- ORM-based parametric queries
+- Formatted console output 
+- Control flow
 - Backend logic 
 
-1.3 Project structure
+2.3 Project structure
 
 - roles.py – defines employee roles, experience and personal information
 - assignments.py – handles task, assignments logic
 - company.py – manages company data
 - security.py – handles user data security logic
-- app.py - tracks task progress and updates
+- app.py - tracks task progress and updates by using backend logic
  
-2. Conway's Game Of Life
+3. Conway's Game Of Life
 
 Type: Simulation/Zero-player game
 
 Focus: Algorithms, grid-based logic, OOP
 
-2.1 Description:
+3.1 Description:
 
-An implementation of Conway's Game Of Life by using
-objest-oriented programming design to simulate cellular
-automaton behavior.
+An implementation of Conway's Game Of Life by using objest-oriented programming design to simulate cellular automaton behaviour
 
-2.2 Key Features:
+3.2 Key Features:
 
 - Grid-based state management
 - Rule-based evolution system
 - Efficient update logic
 - Visualisation of animation states
+- Event driven input handling
+- Control flow
 
-3. Space Shooter Prototype
+4. Space Shooter Prototype
 
 Type: Interactive Game
 
 Focus: Event-driven programming, game loops, OOP
 
-3.1 Description:
+4.1 Description:
 
-A simple space shooter game prototype developed with PyGame 
-that demonstrates real-time player, enemies and projectiles movement
-by simulating real battle 
+A simple space shooter game prototype developed with PyGame that demonstrates real-time 
+player, enemies and projectiles movement by simulating real battle 
 
-3.2 Key Features:
+4.2 Key Features:
 
-- Game loop implementation
+- Game loop architecture
 - Event-driven input handling
 - Object-oriented game entities (player, enemies, projectiles, health, stars)
 - Basic collision detection
 - Player and enemies movement
-- Implementation of SQLAlchemy ORM for scalable players info and score management
+- Implementation of SQLAlchemy ORM for scalable players info and score management operations
 - Backend logic 
 
-3.3 Project structure 
+4.3 Project structure: 
 
-space.py - defines gameplay, game characters, collision detection 
-
-data.py - stores main player info such as scores, rankings, levels
-
-app.py - defines game backend operations 
+- space.py - defines gameplay, game characters, collision detection 
+- data.py - stores main player info such as scores, rankings, levels
+- app.py - performs game backend operations 
 
 4. Tech Stack
 
-- Python (data types, formatted console output, loops, exception handling)
+- Python (data types, formatted console output, control flow, exception handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation)
-- PyGame (for game development)
-- SQLAlchemy ORM (for database development and management)
-- Flask (for lightweight web applications development)
+- SQLAlchemy ORM (table and object relationships)
+- Flask (app routing, template rendering)
+- PyGame (game initialisation and loop architecture)
 
 
 
