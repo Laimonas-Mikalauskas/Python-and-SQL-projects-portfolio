@@ -69,7 +69,7 @@ A class-based workplace data management and task tracking system for managing an
 - company.py – manages company data
 - security.py – handles user data security logic
 - task_manager.py - tracks task progress and updates by using backend logic
-- task_manasger.html - creates web application layout
+- task_manager.html - creates web application layout
 - task_manager.css - creates simple UI 
  
 3. Conway's Game Of Life
