@@ -42,7 +42,7 @@ Real world personal project
 
 Type: Object-Oriented Data Management And Task Tracking System
 
-Focus: OOP, structured database design, app routing, request handling 
+Focus: OOP, structured database design, app routing, request handling, user interface
 
 2.1 Description:
 
