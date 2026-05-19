@@ -28,13 +28,13 @@ Focus: OOP, structured database design
 A class-based book library data management system for managing borrowed and returned books info
 that simulates real world book data management operations by using structured object relationships
 
-1.2 Key features:
+1.2 Key features added:
 
 - Class-based architecture for structured and maintainable code design
 - CRUD operations for data storage, retrieval, update and deletion
-- ORM models and relationships for scalable data management
-- Formatted console output to display SQL query results
-- Control flow (while, for loops to execute program repeatedly) 
+- Implemented ORM models and relationships for scalable data management
+- Displayed SQL query results by implementating formatted console output
+- Applied control flow (while, for loops to execute program repeatedly) 
 
 2. Front-end and back-end-driven developers workplace data management and task tracking system
 
@@ -48,19 +48,19 @@ Focus: OOP, structured database design, app routing, request handling, user inte
 
 A class-based workplace data management and task tracking system for managing and securing employee personal data. Also it tracks task progress and it is designed to simulate real-world employee data management, task tracking and security operations by using structured object relationships and backend logic combined with friendly UI.
 
-2.2 Key features:
+2.2 Key features made:
 
-- Class-based architecture to maintain and structure Python code design
-- CRUD operations for data storage, retrieval, update and deletion
-- ORM models and relationships for scalable data management operations 
-- ORM-based parametric queries to eliminate SQL injection risks 
-- Formatted console output to display SQL query results
-- Control flow (while, for loops to execute program repeatedly) 
-- Backend logic by implementing Flask routing, templates rendering
-- HTTP methods such as GET, POST that lets client to retrieve data from server and send it to the server to proceed the info
-- Password hashing with Werkzeug to secure user login credentials 
-- Simple webpage layout developed with HTML
-- Responsive design-based task management app UI created with CSS
+- Built class-based architecture to maintain and structure Python code design
+- Performed CRUD operations for data storage, retrieval, update and deletion
+- Implemented ORM models and relationships for scalable data management operations 
+- Eliminated SQL injection risks by applying ORM-based parametric queries
+- Displayed SQL query results via formatted console output
+- Applied control flow (while, for loops to execute program repeatedly) 
+- Used backend logic by implementing Flask routing, templates rendering
+- Applied HTTP methods such as GET, POST that lets client to retrieve data from server and send it to the server to proceed the info
+- Managed secure user login credentials by implementing password hashing with Werkzeug  
+- Developed simple webpage layout with HTML
+- Designed responsive design-based task management app UI created with CSS
 
 2.3 Project structure
 
