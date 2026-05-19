@@ -38,7 +38,7 @@ that simulates real world book data management operations by using structured ob
 
 Type: Object-Oriented Data Management And Task Tracking System
 
-Focus: OOP, structured database design
+Focus: OOP, structured database design, app routing, request handling 
 
 2.1 Description:
 
@@ -48,12 +48,13 @@ A class-based workplace data management and task tracking system for managing an
 
 - Class-based architecture to maintain and structure Python code design
 - CRUD operations for data storage, retrieval, update and deletion
-- ORM models and relationships for scalable data management
+- ORM models and relationships for scalable data management operations 
 - ORM-based parametric queries to eliminate SQL injection risks 
 - Formatted console output to display SQL query results
 - Control flow (while, for loops to execute program repeatedly) 
 - Backend logic by implementing Flask routing, templates rendering
 - HTTP methods such as GET, POST that lets client to retrieve data from server and send it to the server to proceed the info
+- Password hashing with Werkzeug to secure user login credentials 
 - Simple webpage layout developed with HTML
 - Responsive design-based task management app UI created with CSS
 
