@@ -17,6 +17,8 @@ Projects
 
 1. Database-driven book library data management system
 
+Real-world academic project 
+
 Type: Object-oriented library data management system
 
 Focus: OOP, structured database design
@@ -35,6 +37,8 @@ that simulates real world book data management operations by using structured ob
 - Control flow (while, for loops to execute program repeatedly) 
 
 2. Front-end and back-end-driven developers workplace data management and task tracking system
+
+Real world personal project 
 
 Type: Object-Oriented Data Management And Task Tracking System
 
@@ -70,6 +74,8 @@ A class-based workplace data management and task tracking system for managing an
  
 3. Conway's Game Of Life
 
+Real world academic project 
+
 Type: Simulation/Zero-player game
 
 Focus: Algorithms, grid-based logic, OOP
@@ -88,6 +94,8 @@ An implementation of Conway's Game Of Life by using objest-oriented programming 
 - Control flow (while, for loops)
 
 4. Space Shooter Prototype
+
+Real-world personal project 
 
 Type: Interactive Game
 
