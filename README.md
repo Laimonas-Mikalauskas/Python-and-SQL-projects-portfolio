@@ -57,7 +57,7 @@ A class-based workplace data management and task tracking system for managing an
 - Displayed SQL query results via formatted console output
 - Applied control flow (while, for loops to execute program repeatedly) 
 - Used backend logic by implementing Flask routing, templates rendering
-- Applied HTTP methods such as GET, POST that lets client to retrieve data from server and send it to the server to proceed the info
+- Applied HTTP methods such as GET, POST that lets client retrieve data from server and send it to server by proceeding the info
 - Managed secure user login credentials by implementing password hashing with Werkzeug  
 - Developed simple webpage layout with HTML
 - Designed responsive design-based task management app UI created with CSS
@@ -93,7 +93,7 @@ An implementation of Conway's Game Of Life by using objest-oriented programming 
 - Event driven input handling
 - Control flow (while, for loops)
 
-4. Space Shooter Prototype
+4. Space Shooter with Backend logic integration 
 
 Real-world personal project 
 
