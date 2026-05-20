@@ -30,8 +30,8 @@ that simulates real world book data management operations by using structured ob
 
 1.2 Key features added:
 
-- Class-based architecture for structured and maintainable code design
-- CRUD operations for data storage, retrieval, update and deletion
+- Applied class-based architecture for structured and maintainable code design
+- Performed CRUD operations for data storage, retrieval, update and deletion
 - Implemented ORM models and relationships for scalable data management
 - Displayed SQL query results by implementating formatted console output
 - Applied control flow (while, for loops to execute program repeatedly) 
@@ -50,7 +50,7 @@ A class-based workplace data management and task tracking system for managing an
 
 2.2 Key features made:
 
-- Built class-based architecture to maintain and structure Python code design
+- Applied class-based architecture to maintain and structure Python code design
 - Performed CRUD operations for data storage, retrieval, update and deletion
 - Implemented ORM models and relationships for scalable data management operations 
 - Eliminated SQL injection risks by applying ORM-based parametric queries
@@ -78,7 +78,7 @@ Real world academic project
 
 Type: Simulation/Zero-player game
 
-Focus: Algorithms, grid-based logic, OOP
+Focus: OOP, algorithms, grid-based logic, game loops
 
 3.1 Description:
 
@@ -99,7 +99,7 @@ Real-world personal project
 
 Type: Interactive Game
 
-Focus: Event-driven programming, game loops, OOP
+Focus: OOP, event-driven programming, game loops
 
 4.1 Description:
 
