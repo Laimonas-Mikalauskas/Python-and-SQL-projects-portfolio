@@ -13,7 +13,7 @@ Concepts
 - Loop implementation (while, for) to ensure smooth database and game runtime
 - Formatted console output for displaying processed data and program results 
 - Data management and structured database design 
-- ORM models and relationships implementation between the objects to ensure scalable data management operations within SQLAlchemy 
+- ORM models and relationships implementation between the objects to ensure scalable and secure data management operations within SQLAlchemy 
 - ORM-based parametric queries usage to eliminate SQL injection attacks 
 - Backend logic application in lighweight web app development 
 - App routing, templates rendering, request handling 
