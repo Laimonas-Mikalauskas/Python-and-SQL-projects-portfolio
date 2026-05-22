@@ -6,12 +6,18 @@ It includes multiple projects ranging from back-end systems to interactive games
 Concepts
 
 - Object-Oriented-Programming (objects, classes, attributes, inheritance as core of OOP design)
-- Data management and structured database design
-- Event-driven programming (program start, events detection, continuous event loops running,          correct handler execution)
-- Loop implementation (while, for)
 - Error handling and input validation
 - Modular and maintainable code design
+- Exception handling (try, except statements)
+- Event-driven programming (program start, events detection, continuous event loops running, correct handler execution)
+- Loop implementation (while, for) to ensure smooth database and game runtime
 - Formatted console output for displaying processed data and program results 
+- Data management and structured database design 
+- ORM models and relationships implementation between the objects to ensure scalable data management operations within SQLAlchemy 
+- Database security from SQL injection attacks 
+- Backend logic application in lighweight web app development 
+- App routing, templates rendering, request handling 
+
 
 Projects
 
