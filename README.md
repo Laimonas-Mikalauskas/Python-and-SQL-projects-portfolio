@@ -38,8 +38,8 @@ that simulates real world book data management operations by using structured ob
 
 - Applied class-based architecture for structured and maintainable code design
 - Performed CRUD operations for data storage, retrieval, update and deletion
-- Implemented ORM models and relationships for scalable data management
-- Displayed SQL query results by implementating formatted console output
+- Implemented ORM models and relationships between the objects for scalable data management operations 
+- Displayed SQL query results by implementing formatted console output
 - Applied control flow (while, for loops to execute program repeatedly) 
 
 2. Front-end and back-end-driven developers workplace data management and task tracking system
