@@ -131,10 +131,11 @@ player, enemies and projectiles movement by simulating real battle
 
 - Python (data types, formatted console output, control flow, exception handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation)
-- SQLAlchemy ORM (table and object relationships)
-- Flask (app routing, request handling, template rendering)
-- HTML & CSS (web page layout and design)
-- PyGame (game initialisation and loop architecture)
+- SQLAlchemy ORM (CRUO operations, database cecurity, table and object relationships)
+- Werkzeug (password hashing, secure user login credentials management)
+- Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
+- HTML & CSS (UI development)
+- PyGame (visualisation of animated states, game initialisation and loop implementation)
 
 
 
