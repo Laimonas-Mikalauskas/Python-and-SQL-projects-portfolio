@@ -1,7 +1,7 @@
 Introduction
 
 This repository shows practical application of core Python fundamentals with a focus on object-oriented-programming (OOP).
-It includes multiple projects ranging from back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth applications runtime by applying creative, analytical thinking and problem solving skills
+It includes multiple projects ranging from back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth applications runtime by applying atttention to detail, creative, analytical thinking and problem solving skills
 
 Concepts
 
@@ -9,7 +9,7 @@ Concepts
 - Error handling and input validation
 - Modular and maintainable code design
 - Exception handling (try, except statements)
-- Event-driven programming (program start, events detection, continuous event loops running,          correct handler execution)
+- Event-driven programming (program start, events detection, continuous event loops running,          correct handler executiuon)
 - Loop implementation (while, for) to ensure smooth database and game runtime
 - Formatted console output for displaying processed data and SQL query results 
 - Data management and structured database design 
@@ -22,7 +22,7 @@ Projects
 
 1. Database-driven book library data management system
 
-Real-world academic project 
+Real-world academic database development project 
 
 Type: Object-oriented library data management system
 
@@ -36,18 +36,18 @@ that simulates real world book data management operations by using structured ob
 1.2 Key features added:
 
 - Applied class-based architecture for structured and maintainable code design
-- Performed CRUD operations for data storage, retrieval, update and deletion
-- Implemented ORM models and relationships between the objects for scalable data management operations 
 - Displayed SQL query results by implementing formatted console output
 - Applied control flow (while, for loops to execute program repeatedly) 
+- Performed CRUD operations for data storage, retrieval, update and deletion
+- Implemented ORM models and relationships between the objects for scalable data management           operations 
 
 2. Front-end and back-end-driven developers workplace data management and task tracking system
 
-Real world personal project 
+Real world personal full-stack project 
 
 Type: Object-Oriented Data Management And Task Tracking System
 
-Focus: OOP, structured database design, app routing, request handling, user interface
+Focus: OOP, structured database design, app routing, request handling, template rendering, user interface
 
 2.1 Description:
 
@@ -56,13 +56,13 @@ A class-based workplace data management and task tracking system for managing an
 2.2 Key features made:
 
 - Applied class-based architecture to maintain and structure Python code design
+- Displayed SQL query results via formatted console output
+- Applied control flow (while, for loops to execute program repeatedly) 
 - Performed CRUD operations for data storage, retrieval, update and deletion
 - Implemented ORM models and relationships for scalable data management operations 
 - Eliminated SQL injection risks by applying ORM-based parametric queries
-- Displayed SQL query results via formatted console output
-- Applied control flow (while, for loops to execute program repeatedly) 
 - Used backend logic by implementing Flask routing, templates rendering
-- Applied HTTP methods such as GET, POST that lets client retrieve data from server and send it to server by proceeding the info
+- Applied HTTP methods such as GET, POST that lets client retrieve data from server and send it to    server by proceeding the info
 - Managed secure user login credentials by implementing password hashing with Werkzeug  
 - Developed simple webpage layout with HTML
 - Designed responsive design-based task management app UI created with CSS
@@ -70,7 +70,6 @@ A class-based workplace data management and task tracking system for managing an
 2.3 Project structure
 
 - roles.py – defines employee roles, experience and personal information
-- assignments.py – handles task, assignments logic
 - company.py – manages company data
 - security.py – handles user data security logic
 - task_manager.py - tracks task progress and updates by using backend logic
@@ -79,7 +78,7 @@ A class-based workplace data management and task tracking system for managing an
  
 3. Conway's Game Of Life
 
-Real world academic project 
+Real world academic software project 
 
 Type: Simulation/Zero-player game
 
@@ -100,7 +99,7 @@ An implementation of Conway's Game Of Life by using objest-oriented programming 
 
 4. Space Shooter with Backend logic integration 
 
-Real-world personal project 
+Real-world personal backend-integrated game project 
 
 Type: Interactive Game
 
