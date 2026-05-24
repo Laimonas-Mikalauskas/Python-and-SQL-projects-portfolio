@@ -131,7 +131,7 @@ player, enemies and projectiles movement by simulating real battle
 
 - Python (data types, formatted console output, control flow, exception handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation)
-- SQLAlchemy ORM (CRUO operations, database cecurity, table and object relationships)
+- SQLAlchemy ORM (CRUO operations, database security, table and object relationships)
 - Werkzeug (password hashing, secure user login credentials management)
 - Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
 - HTML & CSS (UI development)
