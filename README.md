@@ -39,7 +39,7 @@ that simulates real world book data management operations by using structured ob
 - Displayed SQL query results by implementing formatted console output
 - Applied control flow (while, for loops to execute program repeatedly) 
 - Performed CRUD operations for data storage, retrieval, update and deletion
-- Implemented ORM models and relationships between the objects for scalable data management           operations 
+- Implemented ORM models and relationships between the objects for scalable data management operations 
 
 2. Front-end and back-end-driven developers workplace data management and task tracking system
 
@@ -61,7 +61,7 @@ A class-based workplace data management and task tracking system for managing an
 - Performed CRUD operations for data storage, retrieval, update and deletion
 - Implemented ORM models and relationships for scalable data management operations 
 - Eliminated SQL injection risks by applying ORM-based parametric queries
-- Used backend logic by implementing Flask routing, templates rendering
+- Used backend logic by implementing Flask routing, templates rendering, request handling 
 - Applied HTTP methods such as GET, POST that lets client retrieve data from server and send it to    server by proceeding the info
 - Managed secure user login credentials by implementing password hashing with Werkzeug  
 - Developed simple webpage layout with HTML
