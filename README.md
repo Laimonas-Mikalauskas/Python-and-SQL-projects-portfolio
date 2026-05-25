@@ -16,6 +16,7 @@ Concepts
 - ORM models and relationships implementation between the objects to ensure scalable and secure       data management operations within SQLAlchemy 
 - ORM-based parametric queries usage to eliminate SQL injection attacks 
 - Backend logic fundamentals such as app routing, templates rendering, request handling in lightweight web app development 
+- Secure user login credentials management such as password storing and hashing by using Werkzeug 
 
   
 Projects
@@ -71,7 +72,9 @@ A class-based workplace data management and task tracking system for managing an
 
 - roles.py – defines employee roles, experience and personal information
 - company.py – manages company data
-- security.py – handles user data security logic
+- sensitive_data_protection.py – handles personal user data security logic within SQLAlchemy database 
+- secure_user_login.py - manages secure user login credentials within database 
+- app_login.py - manages secure web application user login credentials within task tracking application 
 - task_manager.py - tracks task progress and updates by using backend logic
 - task_manager.html - creates web application layout
 - task_manager.css - creates simple UI 
