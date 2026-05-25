@@ -10,7 +10,7 @@ Concepts
 - Modular and maintainable code design
 - Exception handling (try, except statements)
 - Event-driven programming (program start, events detection, continuous event loops running, correct handler execution)
-- Loop implementation (while, for) to ensure smooth database and game runtime
+- Loop implementation (while, for) to ensure smooth database, web application and game runtime
 - Formatted console output for displaying processed data and SQL query results 
 - Data management and structured database design 
 - ORM models and relationships implementation between the objects to ensure scalable and secure       data management operations within SQLAlchemy 
