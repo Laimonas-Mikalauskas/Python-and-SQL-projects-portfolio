@@ -24,7 +24,7 @@ Projects
 
 Real-world academic database development project 
 
-Type: Object-oriented library data management system
+Type: Object-oriented book library data management system
 
 Focus: OOP, structured database design
 
@@ -45,7 +45,7 @@ that simulates real world book data management operations by using structured ob
 
 Real world personal full-stack project 
 
-Type: Object-Oriented Data Management And Task Tracking System
+Type: Object-Oriented Programming and front-end based employees data management and task tracking system
 
 Focus: OOP, structured database design, app routing, request handling, template rendering, user interface
 
