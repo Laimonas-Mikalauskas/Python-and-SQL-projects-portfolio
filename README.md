@@ -15,7 +15,7 @@ Concepts
 - Data management and structured database design 
 - ORM models and relationships implementation between the objects to ensure scalable and secure       data management operations within SQLAlchemy 
 - ORM-based parametric queries usage to eliminate SQL injection attacks 
-- Backend logic fundamentals such as app routing, templates rendering, request handling, backend      logic application in lightweight web app development 
+- Backend logic fundamentals such as app routing, templates rendering, request handling in lightweight web app development 
 
   
 Projects
