@@ -17,7 +17,7 @@ Concepts
 - ORM-based parametric queries usage to eliminate SQL injection attacks 
 - Backend logic fundamentals such as app routing, templates rendering, request handling in lightweight web app development 
 - Secure user login credentials management such as password storing and hashing by using Werkzeug 
-- Simple interactive game graphic design 
+- Simple interactive 2D game graphic design 
 
   
 Projects
@@ -122,7 +122,7 @@ player, enemies and projectiles movement by simulating real battle
 - Object-oriented game entities (player, enemies, projectiles, health, stars)
 - Basic collision detection
 - Player and enemies movement
-- Visualisation of animation states 
+- Visualisation of animation states by implementing 2D graphic design 
 - Implementation of SQLAlchemy ORM for scalable players info and score management operations
 - Backend logic 
 
