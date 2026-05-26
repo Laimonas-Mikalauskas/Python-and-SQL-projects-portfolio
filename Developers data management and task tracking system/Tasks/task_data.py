@@ -12,7 +12,7 @@ class User(UserMixin, db.Model):
     username = db.Column(db.String(80), unique=True, nullable=False, index=True)
     password = db.Column(db.String(255), nullable=False)
     is_active = db.Column(db.Boolean, default=True)
-    created_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc), nullable=False)
+    created_at = db.Column(db.DateTime("2026-05-26"), default=lambda: datetime.now(timezone.utc), nullable=False)
     updated_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc), 
                            onupdate=lambda: datetime.now(timezone.utc), nullable=False)
 
@@ -27,7 +27,7 @@ class UserActivityLog(db.Model):
     user_id = db.Column(db.Integer, db.ForeignKey('user.id', ondelete='CASCADE'), nullable=False, index=True)
     activity_type = db.Column(db.String(50), nullable=False)
     activity_details = db.Column(db.Text, nullable=True)
-    timestamp = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc), nullable=False)
+    timestamp = db.Column(db.DateTime("2026-05-26"), default=lambda: datetime.now(timezone.utc), nullable=False)
 
     user = db.relationship('User', backref=db.backref('activity_logs', lazy='select', cascade='all, delete-orphan'))
 
@@ -59,8 +59,8 @@ class UserSession(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     user_id = db.Column(db.Integer, db.ForeignKey('user.id', ondelete='CASCADE'), nullable=False, index=True)
     session_token = db.Column(db.String(255), unique=True, nullable=False, index=True)
-    created_at = db.Column(db.DateTime, nullable=False, default=lambda: datetime.now(timezone.utc))
-    expires_at = db.Column(db.DateTime, nullable=False)
+    created_at = db.Column(db.DateTime("2026-05-26"), nullable=False, default=lambda: datetime.now(timezone.utc))
+    expires_at = db.Column(db.DateTime("2026-06-26"), nullable=False)
     is_active = db.Column(db.Boolean, default=True)
 
     user = db.relationship('User', backref=db.backref('sessions', lazy='select', cascade='all, delete-orphan'))
@@ -81,8 +81,8 @@ class Task(db.Model):
     title = db.Column(db.String(255), nullable=False)
     description = db.Column(db.Text, nullable=True)
     status = db.Column(db.String(50), default='pending', nullable=False)
-    created_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc), nullable=False)
-    updated_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc), 
+    created_at = db.Column(db.DateTime("2026-05-26"), default=lambda: datetime.now(timezone.utc), nullable=False)
+    updated_at = db.Column(db.DateTime("2026-05-26"), default=lambda: datetime.now(timezone.utc), 
                            onupdate=lambda: datetime.now(timezone.utc), nullable=False)
 
     user = db.relationship('User', backref=db.backref('tasks', lazy='select'))
@@ -96,7 +96,7 @@ class Deadline(db.Model):
     __tablename__ = 'deadline'
     id = db.Column(db.Integer, primary_key=True)
     task_id = db.Column(db.Integer, db.ForeignKey('task.id', ondelete='CASCADE'), nullable=False, index=True)
-    deadline_date = db.Column(db.DateTime, nullable=False)
+    deadline_date = db.Column(db.DateTime("2026-05-26"), nullable=False)
 
     task = db.relationship('Task', backref=db.backref('deadline', uselist=False, cascade='all, delete-orphan'))
 
@@ -113,8 +113,8 @@ class TaskFeedback(db.Model):
     __tablename__ = 'task_feedback'
     id = db.Column(db.Integer, primary_key=True)
     task_id = db.Column(db.Integer, db.ForeignKey('task.id', ondelete='CASCADE'), nullable=False, index=True)
-    feedback_text = db.Column(db.Text, nullable=False)
-    created_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc), nullable=False)
+    feedback_text = db.Column(db.String(255), default="Good", nullable=False)
+    created_at = db.Column(db.DateTime("2026-05-26"), default=lambda: datetime.now(timezone.utc), nullable=False)
 
     task = db.relationship('Task', backref=db.backref('feedbacks', lazy='select', cascade='all, delete-orphan'))
 
@@ -127,8 +127,8 @@ class TaskHistory(db.Model):
     __tablename__ = 'task_history'
     id = db.Column(db.Integer, primary_key=True)
     task_id = db.Column(db.Integer, db.ForeignKey('task.id', ondelete='CASCADE'), nullable=False, index=True)
-    status = db.Column(db.String(50), nullable=False)
-    changed_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc), nullable=False)
+    status = db.Column(db.String("In Progress"), nullable=False)
+    changed_at = db.Column(db.DateTime("2026-05-26"), default=lambda: datetime.now(timezone.utc), nullable=False)
 
     task = db.relationship('Task', backref=db.backref('history', lazy='select', cascade='all, delete-orphan'))
 
