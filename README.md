@@ -67,6 +67,7 @@ A class-based workplace data management and task tracking system for managing an
 - Implemented Flask-SQLAlchemy ORM models to support scalable task tracking application data          management operations  
 - Applied HTTP methods such as GET, POST that lets client retrieve data from server and send it to    server by proceeding detailed task info
 - Managed secure user login credentials by implementing password hashing with Werkzeug within SQLAlchemy and Flask-SQLAlchemy databases
+- Implemented Flask-SQLAlchemy database seeding with structured string, integer and float data for backend testing workflows
 - Developed simple webpage layout with HTML
 - Designed responsive design-based task management app UI created with CSS
 
@@ -139,7 +140,7 @@ player, enemies and projectiles movement by simulating real battle
 - SQLAlchemy ORM (CRUD operations, database security, table and object relationships)
 - Werkzeug (password hashing, secure user login credentials management)
 - Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
-- HTML & CSS (UI development)
+- HTML & CSS (UI development, web page layouts, responsive design)
 - PyGame (visualisation of animated states, game initialisation and loop implementation)
 
 
