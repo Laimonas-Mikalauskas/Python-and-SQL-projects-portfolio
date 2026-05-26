@@ -17,6 +17,7 @@ Concepts
 - ORM-based parametric queries usage to eliminate SQL injection attacks 
 - Backend logic fundamentals such as app routing, templates rendering, request handling in lightweight web app development 
 - Secure user login credentials management such as password storing and hashing by using Werkzeug 
+- Simple interactive game graphic design 
 
   
 Projects
