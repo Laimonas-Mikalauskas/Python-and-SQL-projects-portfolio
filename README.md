@@ -60,9 +60,10 @@ A class-based workplace data management and task tracking system for managing an
 - Displayed SQL query results via formatted console output
 - Applied control flow (while, for loops to execute program repeatedly) 
 - Performed CRUD operations for data storage, retrieval, update and deletion
-- Implemented ORM models and relationships for scalable data management operations 
+- Implemented SQLAlchemy ORM models and relationships for scalable employee data management operations 
 - Eliminated SQL injection risks by applying ORM-based parametric queries
-- Used backend logic by implementing Flask routing, templates rendering, request handling 
+- Used backend logic by implementing Flask routing, templates rendering, request handling in lightweight task tracking application to support backend web operations
+- Implemented Flask-SQLAlchemy ORM models to support scalable task tracking application data management operations  
 - Applied HTTP methods such as GET, POST that lets client retrieve data from server and send it to    server by proceeding the info
 - Managed secure user login credentials by implementing password hashing with Werkzeug  
 - Developed simple webpage layout with HTML
