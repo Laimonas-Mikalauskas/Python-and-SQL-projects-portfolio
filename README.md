@@ -76,11 +76,11 @@ A class-based workplace data management and task tracking system for managing an
 - roles.py – defines employee roles, experience and personal information
 - company.py – manages company data
 - sensitive_data_protection.py – handles personal user data security logic within SQLAlchemy database 
-- secure_user_login.py - manages secure user login credentials within database 
-- app_login.py - manages secure web application user login credentials within task tracking application 
-- task_manager.py - tracks task progress and updates by using backend logic
+- secure_user_login.py - manages secure user login credentials within SQLAlchemy database by implementing password hashing with Werkzeug
+- app_login.py - manages secure web application user login credentials within Flask task tracking application 
+- task_manager.py - tracks task progress and updates by using backend logic of task tracking application 
 - task_manager.html - creates web application layout
-- task_manager.css - creates simple UI 
+- task_manager.css - creates simple web application UI 
  
 3. Conway's Game Of Life
 
