@@ -49,7 +49,7 @@ Real world personal full-stack project
 
 Type: Object-Oriented Programming and front-end based employees data management and task tracking system
 
-Focus: OOP, structured database design, app routing, request handling, template rendering, user interface
+Focus: OOP, structured database design, app routing, request handling, template rendering, user interface and webpage development 
 
 2.1 Description:
 
