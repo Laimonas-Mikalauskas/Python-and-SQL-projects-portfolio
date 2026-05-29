@@ -125,7 +125,7 @@ player, enemies and projectiles movement by simulating real battle
 - Player and enemies movement
 - Visualisation of animation states by implementing 2D graphic design 
 - Implementation of SQLAlchemy ORM for scalable players info and score management operations
-- Backend logic 
+- Backend logic (app routing, templates rendering, request handling)
 
 4.3 Project structure: 
 
