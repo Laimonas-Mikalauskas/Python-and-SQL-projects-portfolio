@@ -135,7 +135,7 @@ player, enemies and projectiles movement by simulating real battle
 5. Tech Stack
 
 - Python (data types, formatted console output, control flow, exception handling)
-- OOP (classes, attributes and its initialisation, inheritance, encapsulation)
+- OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures database and software design)
 - SQLAlchemy ORM (CRUD operations, database security, table and object relationships)
 - Werkzeug (password hashing, secure user login credentials management)
 - Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
