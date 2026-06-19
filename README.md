@@ -131,15 +131,37 @@ player, enemies and projectiles movement by simulating real battle
 
 - space.py - defines gameplay, game characters, collision detection 
 - data.py - stores main player info such as scores, rankings, levels
-- app.py - performs game backend operations 
+- app.py - performs game backend operations
 
-5. Tech Stack
+5. FastAPI and SQLalchemy-driven plumbing inventory stock data management and order status tracking system
+
+Real-world personal backend-driven project
+
+5.1. Description:
+
+A high performance application-driven project to show basic asynchronous programming 
+knowledge
+
+5.2. Key features:
+
+- 
+
+5.3. Project structure:
+
+- orders.py - handles current order status logic
+- shipment.py - handles package tracking logic
+- data.py - manages plumbing equipment current stock data
+
+
+
+6. Tech Stack
 
 - Python (data types, formatted console output, control flow, exception handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures database and software design)
 - SQLAlchemy ORM (CRUD operations, database security, table and object relationships)
 - Werkzeug (password hashing, secure user login credentials management)
 - Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
+- FastAPI (backend logic, app routing, asynchronous programming)
 - HTML & CSS (UI development, web page layouts, responsive design)
 - PyGame (visualisation of animated states, game initialisation and loop implementation)
 
