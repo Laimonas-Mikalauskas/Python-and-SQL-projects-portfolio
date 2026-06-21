@@ -139,8 +139,8 @@ Real-world personal backend-driven project
 
 5.1. Description:
 
-A high performance application-driven project to show basic asynchronous programming 
-knowledge
+A high performance application-driven and database-integrated project to reinforce object-oriented-programming practical knowledge and develop asynchronous programming fundamentals in high performance database-integrated application development 
+
 
 5.2. Key features:
 
