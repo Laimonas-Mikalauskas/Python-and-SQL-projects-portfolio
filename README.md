@@ -19,7 +19,6 @@ Concepts
 - Asynchronous endpoints usage by applying asynchronous programming in high performance web app development with Fast API 
 - Secure user login credentials management such as password storing and hashing by using Werkzeug 
 - Simple interactive 2D game graphic design 
-
   
 Projects
 
@@ -139,20 +138,19 @@ Real-world personal backend-driven project
 
 5.1. Description:
 
-A high performance application-driven and database-integrated project to reinforce object-oriented-programming practical knowledge and develop asynchronous programming fundamentals in high performance database-integrated application development 
-
+A high performance application-driven and database-integrated project to reinforce object-oriented-programming practical knowledge and develop asynchronous programming fundamentals in high performance database-integrated web application development 
 
 5.2. Key features:
 
-- 
+- Applied FastAPI routing to organize backend logic
+- Applied asynchronous endpoints for structured application design 
+- Implemented ORM models and table relationships to support scalable CRUD operations 
 
 5.3. Project structure:
 
 - orders.py - handles current order status logic
 - shipment.py - handles package tracking logic
 - data.py - manages plumbing equipment current stock data
-
-
 
 6. Tech Stack
 
@@ -161,7 +159,7 @@ A high performance application-driven and database-integrated project to reinfor
 - SQLAlchemy ORM (CRUD operations, database security, table and object relationships)
 - Werkzeug (password hashing, secure user login credentials management)
 - Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
-- FastAPI (backend logic, app routing, asynchronous programming)
+- FastAPI (backend logic, app routing, asynchronous endpoints)
 - HTML & CSS (UI development, web page layouts, responsive design)
 - PyGame (visualisation of animated states, game initialisation and loop implementation)
 
