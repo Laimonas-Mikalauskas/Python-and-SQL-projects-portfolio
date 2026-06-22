@@ -104,7 +104,7 @@ An implementation of Conway's Game Of Life by using objest-oriented programming 
 
 4. Space Shooter with Backend logic integration 
 
-Real-world personal backend-integrated game project 
+Real-world personal database and backend-integrated game project 
 
 Type: Interactive Game
 
