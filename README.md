@@ -16,7 +16,7 @@ Concepts
 - ORM models and relationships implementation between the objects to ensure scalable and secure       data management operations within SQLAlchemy 
 - ORM-based parametric queries usage to eliminate SQL injection attacks 
 - Backend logic fundamentals such as app routing, templates rendering, request handling, HTTP         methods in lightweight web app development
-- Asynchronous endpoints usage by applying asynchronous programming in high performance web app development with Fast API 
+- Asynchronous endpoints usage in high performance web app development with Fast API 
 - Secure user login credentials management such as password storing and hashing by using Werkzeug 
 - Simple interactive 2D game graphic design 
   
