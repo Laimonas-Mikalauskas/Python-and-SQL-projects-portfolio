@@ -1,7 +1,7 @@
 Introduction
 
 This repository shows practical application of core Python fundamentals with a focus on object-oriented programming (OOP) and asynchronous programming.
-It includes multiple projects ranging from back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth applications runtime by applying atttention to detail, creative, analytical thinking and problem solving skills
+It includes multiple projects ranging from database and back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth applications runtime by applying atttention to detail, creative, analytical thinking and problem solving skills
 
 Concepts
 
