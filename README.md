@@ -62,7 +62,7 @@ A class-based workplace data management and task tracking system for managing an
 - Applied control flow (while, for loops to execute program repeatedly) 
 - Performed CRUD operations for user data storage, retrieval, update and deletion
 - Implemented SQLAlchemy ORM models and relationships for scalable and secure employee data           management operations 
-- Eliminated SQL injection risks by applying ORM-based parametric queries
+- Eliminated SQL injection risks by applying ORM-based parameterized queries
 - Used backend logic by implementing Flask routing, templates rendering, request handling by          developing lightweight task tracking application to support backend web operations
 - Implemented Flask-SQLAlchemy ORM models to support scalable task tracking application data          management operations  
 - Applied HTTP methods such as GET and POST to retrieve and submit task info within Flask web         application
@@ -142,9 +142,11 @@ A high performance application-driven and database-integrated project to reinfor
 
 5.2. Key features:
 
-- Applied FastAPI routing to organize backend logic
-- Applied asynchronous endpoints for structured application design 
-- Implemented ORM models and table relationships to support scalable CRUD operations 
+- Applied FastAPI routing to organize shopping app backend logic
+- Applied asynchronous endpoints for structured web application design
+- Applied HTTP methods such as GET and POST to retrieve and submit item cart info
+- Implemented ORM models and table relationships to support scalable item stock data management       operations
+- Implemented Flask-SQLAlchemy database seeding with structured string, integer and float data for    tracking shopping app backend testing workflows within electronic plumbing equipment store
 
 5.3. Project structure:
 
