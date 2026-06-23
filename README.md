@@ -143,10 +143,10 @@ A high performance application-driven and database-integrated project to reinfor
 5.2. Key features:
 
 - Applied FastAPI routing to organize shopping app backend logic
-- Applied asynchronous endpoints for structured web application design
+- Applied asynchronous endpoints for structured high-performance web application design
 - Applied HTTP methods such as GET and POST to retrieve and submit item cart info
-- Implemented ORM models and table relationships to support scalable item stock data management       operations
-- Implemented Flask-SQLAlchemy database seeding with structured string, integer and float data for    tracking shopping app backend testing workflows within electronic plumbing equipment store
+- Implemented ORM models and table relationships to support scalable item stock data management       operations within FastAPI-SQLAlchemy
+- Implemented FastAPI-SQLAlchemy database seeding with structured string, integer and float data for tracking shopping app backend testing workflows within electronic plumbing equipment store
 
 5.3. Project structure:
 
@@ -161,7 +161,7 @@ A high performance application-driven and database-integrated project to reinfor
 - SQLAlchemy ORM (CRUD operations, database security, table and object relationships)
 - Werkzeug (password hashing, secure user login credentials management)
 - Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
-- FastAPI (backend logic, app routing, asynchronous endpoints)
+- FastAPI (backend logic, HTTP methods, app routing, asynchronous endpoints)
 - HTML & CSS (UI development, web page layouts, responsive design)
 - PyGame (visualisation of animated states, game initialisation and loop implementation)
 
