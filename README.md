@@ -146,7 +146,7 @@ A high performance application-driven and database-integrated project to reinfor
 - Applied asynchronous endpoints for structured high-performance web application design
 - Applied HTTP methods such as GET and POST to retrieve and submit item cart info
 - Implemented ORM models and table relationships to support scalable item stock data management       operations within FastAPI-SQLAlchemy
-- Implemented FastAPI-SQLAlchemy database seeding with structured string, integer and float data for tracking shopping app backend testing workflows within electronic plumbing equipment store
+- Implemented FastAPI-SQLAlchemy database seeding with structured string, integer and float data for tracking shopping app backend testing workflows within electronic plumbing equipment store data management system
 
 5.3. Project structure:
 
