@@ -142,14 +142,17 @@ A high performance application-driven and database-integrated project to reinfor
 
 5.2. Key features:
 
-- Applied FastAPI routing to organize shopping app backend logic
+- Applied FastAPI routing to organize shopping app structure and backend logic
 - Applied asynchronous endpoints for structured high-performance web application design
-- Applied HTTP methods such as GET and POST to retrieve and submit item cart info
+- Applied HTTP methods such as GET and POST to retrieve and submit customer info
 - Implemented ORM models and table relationships to support scalable item stock data management       operations within FastAPI-SQLAlchemy
 - Implemented FastAPI-SQLAlchemy database seeding with structured string, integer and float data for tracking shopping app backend testing workflows within electronic plumbing equipment store data management system
 
 5.3. Project structure:
 
+- main page.py - handles web app page logic
+- customer account.py - handles customer personal info
+- items cart.py - handles ordered items quantity logic 
 - orders.py - handles current order status logic
 - shipment.py - handles package tracking logic
 - data.py - manages plumbing equipment current stock data
