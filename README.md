@@ -6,9 +6,8 @@ It includes multiple projects ranging from database and back-end systems to inte
 Concepts
 
 - Object-Oriented-Programming (objects, classes, attributes, inheritance as core of OOP design)
-- Error handling and input validation
 - Modular and maintainable code design
-- Exception handling (try, except statements)
+- Error handling (try, except statements)
 - Event-driven programming (program start, events detection, continuous event loops running,          correct handler execution)
 - Loop implementation (while, for) to ensure smooth database, web application and game runtime
 - Formatted console output for displaying processed data and SQL query results 
@@ -40,6 +39,7 @@ that simulates real world book data management operations by using structured ob
 - Applied class-based architecture for structured and maintainable code design
 - Displayed SQL query results by implementing formatted console output
 - Applied control flow (while, for loops to execute program repeatedly) 
+- Prevented database crash by applying try except statements in error handling 
 - Performed CRUD operations for data storage, retrieval, update and deletion
 - Implemented ORM models and relationships between the objects for scalable data management           operations 
 
@@ -60,6 +60,7 @@ A class-based workplace data management and task tracking system for managing an
 - Applied class-based architecture to maintain and structure Python code design
 - Displayed SQL query results via formatted console output
 - Applied control flow (while, for loops to execute program repeatedly) 
+- Prevented database crash by applying try except statements in error handling 
 - Performed CRUD operations for user data storage, retrieval, update and deletion
 - Implemented SQLAlchemy ORM models and relationships for scalable and secure employee data           management operations 
 - Eliminated SQL injection risks by applying ORM-based parameterized queries
@@ -159,7 +160,7 @@ A high performance application-driven and database-integrated project to reinfor
 
 6. Tech Stack
 
-- Python (data types, formatted console output, control flow, exception handling)
+- Python (data types, formatted console output, control flow, error handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures database and software design)
 - SQLAlchemy ORM (CRUD operations, database security, table and object relationships)
 - Werkzeug (password hashing, secure user login credentials management)
