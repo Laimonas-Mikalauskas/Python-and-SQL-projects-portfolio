@@ -137,6 +137,8 @@ player, enemies and projectiles movement by simulating real battle
 
 Real-world personal backend-driven project
 
+Type: Backend-driven and database-integrated high performance web app
+
 5.1. Description:
 
 A high performance application-driven and database-integrated project to reinforce object-oriented-programming practical knowledge and develop asynchronous programming fundamentals in high performance database-integrated web application development 
