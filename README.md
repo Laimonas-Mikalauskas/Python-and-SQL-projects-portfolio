@@ -16,7 +16,7 @@ Concepts
 - ORM-based parametric queries usage to eliminate SQL injection attacks 
 - Backend logic fundamentals such as app routing, request handling, HTTP methods in lightweight and   high performance web app development with Flask and FastAPI
 - Asynchronous endpoints usage in high performance web app development with Fast API 
-- Secure user login credentials management such as password storing and hashing with Werkzeug 
+- Secure user login credentials management such as password storing and hashing with Werkzeug and bcrypt 
 - Simple interactive 2D game graphic design 
   
 Projects
