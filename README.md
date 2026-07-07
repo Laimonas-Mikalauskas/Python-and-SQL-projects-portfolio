@@ -148,7 +148,7 @@ A high performance application-driven and database-integrated project to reinfor
 - Applied FastAPI routing to organize shopping app structure and backend logic
 - Applied asynchronous endpoints for structured high-performance web application design
 - Applied HTTP methods such as GET and POST to retrieve and submit customer info
-- Supported scalable item stock data management operations within FastAPI-SQLAlchemy by       i       implementing SQLAlchemy ORM models and table relationships 
+- Supported scalable item stock data management operations within FastAPI-SQLAlchemy by               implementing SQLAlchemy ORM models and table relationships 
 - Managed secure customer login credentials by implementing passsword hashing with bcrypt and         Passlib 
 - Implemented FastAPI-SQLAlchemy database seeding with structured string, integer and float data      for tracking shopping app backend testing workflows within electronic plumbing equipment store      data management system
 
