@@ -137,7 +137,7 @@ player, enemies and projectiles movement by simulating real battle
 
 Real-world personal backend-driven project
 
-Type: Backend-driven and database-integrated high performance web app
+Type: Backend-driven and database-integrated online shop
 
 5.1. Description:
 
