@@ -8,15 +8,15 @@ Concepts
 - Object-Oriented-Programming (objects, classes, attributes, inheritance as core of OOP design)
 - Modular and maintainable code design
 - Error handling (try, except statements)
-- Event-driven programming (program start, events detection, continuous event loops running,          correct handler execution)
+- Event-driven programming (program start, events detection, continuous event loops,          correct handler execution)
 - Loop implementation (while, for) to ensure smooth database, web application and game runtime
 - Formatted console output for displaying processed data and SQL query results 
 - Data management and structured database design 
-- ORM models and relationships implementation between the objects to ensure scalable and secure       data management operations within SQLAlchemy 
-- ORM-based parametric queries usage to eliminate SQL injection attacks 
-- Backend logic fundamentals such as app routing, request handling, HTTP methods in lightweight and   high performance web app development with Flask and FastAPI
+- ORM models and table relationships implementation to ensure scalable data management operations within SQLAlchemy 
+- ORM-based parameterized queries usage to eliminate SQL injection attacks 
+- Backend logic fundamentals such as app routing, request handling, HTTP methods usage in lightweight and high performance web app development with Flask and FastAPI
 - Asynchronous endpoints usage in high performance web app development with Fast API 
-- Secure user login credentials management such as password storing and hashing with Werkzeug and bcrypt 
+- Secure user login credentials management such as password storing and hashing with Werkzeug, Passlib and bcrypt 
 - Simple interactive 2D game graphic design 
   
 Projects
@@ -169,7 +169,7 @@ A high performance application-driven and database-integrated project to reinfor
 - Werkzeug (secure user login credentials management)
 - Passlib, bcrypt (password hashing)
 - Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
-- FastAPI (backend logic, HTTP methods, app routing, asynchronous endpoints)
+- FastAPI (backend logic, HTTP methods, app routing, request handling, asynchronous endpoints)
 - HTML & CSS (UI development, web page layouts, responsive design)
 - PyGame (visualisation of animated states, game initialisation and loop implementation)
 
