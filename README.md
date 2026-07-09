@@ -17,6 +17,7 @@ Concepts
 - Backend logic fundamentals such as app routing, request handling, HTTP methods usage in lightweight and high performance web app development with Flask and FastAPI
 - Asynchronous endpoints usage in high performance web app development with Fast API 
 - Secure user login credentials management such as password storing and hashing with Werkzeug, Passlib and bcrypt 
+- Sensitive information encryption such as bank account information with cryptography.Fernet
 - Simple interactive 2D game graphic design 
   
 Projects
@@ -150,6 +151,7 @@ A high performance application-driven and database-integrated project to reinfor
 - Applied HTTP methods such as GET and POST to retrieve and submit customer info
 - Supported scalable item stock data management operations within FastAPI-SQLAlchemy by               implementing SQLAlchemy ORM models and table relationships 
 - Managed secure customer login credentials by implementing passsword hashing with bcrypt and         Passlib 
+- Implemented cryptography.Fernet encryption to secure bank account and payment card info within an online shopping application 
 - Implemented FastAPI-SQLAlchemy database seeding with structured string, integer and float data      for tracking shopping app backend testing workflows within electronic plumbing equipment store      data management system
 
 5.3. Project structure:
@@ -165,9 +167,10 @@ A high performance application-driven and database-integrated project to reinfor
 
 - Python (data types, formatted console output, control flow, error handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures         database and software design)
-- SQLAlchemy ORM (CRUD operations, database security, table and object relationships)
+- SQLAlchemy ORM (CRUD operations, database security, table and object relationships, ORM-based parameterized queries to eliminate SQL injection attacks)
 - Werkzeug (secure user login credentials management)
 - Passlib, bcrypt (password hashing)
+- cryptography.Fernet - (sensitive data encryption)
 - Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
 - FastAPI (backend logic, HTTP methods, app routing, request handling, asynchronous endpoints)
 - HTML & CSS (UI development, web page layouts, responsive design)
