@@ -152,7 +152,7 @@ A high performance application-driven and database-integrated project to reinfor
 - Supported scalable item stock data management operations within FastAPI-SQLAlchemy by               implementing SQLAlchemy ORM models and table relationships 
 - Managed secure customer login credentials by implementing passsword hashing with bcrypt and         Passlib 
 - Implemented cryptography.Fernet encryption to secure bank account and payment card info within an online shopping application 
-- Implemented FastAPI-SQLAlchemy database seeding with structured string, integer and float data      for tracking shopping app backend testing workflows within electronic plumbing equipment store      data management system
+- Implemented FastAPI-SQLAlchemy database seeding with structured string, integer and float data      for tracking shopping app backend testing workflows within online plumbing equipment store      data management system
 
 5.3. Project structure:
 
