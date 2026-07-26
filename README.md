@@ -1,7 +1,7 @@
 Introduction
 
-This repository shows practical application of core Python fundamentals with a focus on object-oriented programming (OOP) and asynchronous programming.
-It includes multiple projects ranging from databases and back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth applications runtime by applying atttention to detail, creative, analytical thinking and problem solving skills
+This repository shows practical application of core Python fundamentals with a focus on object-oriented programming (OOP) and asynchronous programming. Also it includes practical usage of SQL
+knowledge in database develiopment, data management and security. It includes multiple projects ranging from databases and back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth applications runtime by applying atttention to detail, creative, analytical thinking and problem solving skills
 
 Concepts
 
@@ -10,19 +10,23 @@ Concepts
 - Error handling (try, except statements)
 - Event-driven programming (program start, events detection, continuous event loops,          correct handler execution)
 - Loop implementation (while, for) to ensure smooth database, web application and game runtime
-- Formatted console output for displaying processed data and SQL query results 
-- Data management and structured database design 
+- Formatted console output for displaying processed data and SQL query results
+- Database schema design for structured data storage
+- Structured data storage support by implementing appropriate SQL data types 
+- CRUD operations for efficient database record management 
+- Parameterized queries implementation to mitigate SQL injection attacks within SQLite relational database
 - ORM models and table relationships implementation to ensure scalable data management operations within SQLAlchemy 
-- ORM-based parameterized queries usage to eliminate SQL injection attacks 
+- ORM-based parameterized queries usage to eliminate SQL injection attacks in SQLAlchemy database
 - Backend logic fundamentals such as app routing, request handling, HTTP methods usage in lightweight and high performance web app development with Flask and FastAPI
 - Asynchronous endpoints usage in high performance web app development with Fast API 
 - Secure user login credentials management such as password storing and hashing with Werkzeug, Passlib and bcrypt 
 - Sensitive information encryption such as bank account information with cryptography.Fernet
-- Simple interactive 2D game graphic design 
+- Simple interactive 2D game graphic design
+
   
 Projects
 
-1. Database-driven book library data management system
+1. SQLAlchemy book library data management system
 
 Real-world academic database development project 
 
@@ -163,7 +167,29 @@ A high performance application-driven and database-integrated project to reinfor
 - shipment.py - handles package tracking logic
 - data.py - manages plumbing equipment current stock data
 
-6. Tech Stack
+6. SQLite book library data management system
+
+Type: SQL database development fundamentals-based project  
+
+Real-world academic database-driven project
+
+6.1. 
+
+A real world database-drivem project that shows core SQL fundamentals application in relational
+database development
+
+6.2
+
+Key features:
+- Performed full CRUD operations for efficient book and readers data storage, modification and retrieval
+- Supported structured data storage by implementing appropriate SQL data types within database tables
+- Supported book library data structure by designing database schemas 
+- Maintained data integrity across multiple tables by implementing foreign key relationships  
+- Eliminated SQL injection vulnerabilities to protect sensitive user data such as name, email, password by implementing parameterized queries
+
+
+
+8. Tech Stack
 
 - Python (data types, formatted console output, control flow, error handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures         database and software design)
