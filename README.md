@@ -188,7 +188,6 @@ Key features:
 - Eliminated SQL injection vulnerabilities to protect sensitive user data such as name, email, password by implementing parameterized queries
 
 
-
 8. Tech Stack
 
 - Python (data types, formatted console output, control flow, error handling)
