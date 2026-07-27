@@ -181,10 +181,11 @@ database development
 6.2
 
 Key features:
-- Performed full CRUD operations for efficient book and readers data storage, modification and retrieval
-- Supported structured data storage by implementing appropriate SQL data types within database tables
-- Supported book library data structure by designing database schemas 
+
+- Established book library data management system structure by designing database schemas 
+- Supported structured data storage by implementing appropriate SQL data types within database tables 
 - Maintained data integrity across multiple tables by implementing foreign key relationships  
+- Performed full CRUD operations for efficient book and readers data storage, modification and retrieval
 - Eliminated SQL injection vulnerabilities to protect sensitive user data such as name, email, password by implementing parameterized queries
 
 
