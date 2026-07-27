@@ -185,7 +185,7 @@ Key features:
 - Established book library data management system structure by designing database schemas 
 - Supported structured data storage by implementing appropriate SQL data types within database tables 
 - Maintained data integrity across multiple tables by implementing foreign key relationships  
-- Performed full CRUD operations for efficient book and readers data storage, modification and retrieval
+- Supported efficient data management by implementing CRUD operations for inserting, filtering, and retrieving book and reader data.
 - Eliminated SQL injection vulnerabilities to protect sensitive user data such as name, email, password by implementing parameterized queries
 
 
