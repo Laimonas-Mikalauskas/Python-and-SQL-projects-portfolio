@@ -192,13 +192,13 @@ Key features:
 8. Tech Stack
 
 - Python (data types, formatted console output, control flow, error handling)
-- OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures         database and software design)
-- SQLAlchemy ORM (CRUD operations, database security, table and object relationships, ORM-based parameterized queries to eliminate SQL injection attacks)
-- Werkzeug (secure user login credentials management)
-- Passlib, bcrypt (password hashing)
-- cryptography.Fernet - (sensitive data encryption)
+- OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures         database, lightweight web application and game design)
+- SQLAlchemy ORM (database schema design, table and object relationships, CRUD operations, ORM-       based parameterized queries to eliminate SQL injection attacks)
 - Flask (backend logic, HTTP methods, app routing, request handling, template rendering)
 - FastAPI (backend logic, HTTP methods, app routing, request handling, asynchronous endpoints)
+- Werkzeug, Passlib, bcrypt (password hashing)
+- cryptography.Fernet - (sensitive data encryption)
+- SQLite (database schema design, table relationships, secure CRUD operations, parameterized          queries to eliminate SQL injection attacks) 
 - HTML & CSS (UI development, web page layouts, responsive design)
 - PyGame (visualisation of animated states, game initialisation and loop implementation)
 
