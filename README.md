@@ -15,8 +15,8 @@ Concepts
 - Structured data storage support by implementing appropriate SQL data types 
 - CRUD operations for efficient database record management 
 - Parameterized queries implementation to mitigate SQL injection attacks within SQLite relational database
-- ORM models and table relationships implementation to ensure scalable data management operations within SQLAlchemy 
-- ORM-based parameterized queries usage to eliminate SQL injection attacks in SQLAlchemy database
+- ORM models and table relationships implementation to ensure scalable data management operations within SQLAlchemy ORM database
+- ORM-based parameterized queries usage to eliminate SQL injection attacks in SQLAlchemy ORM database
 - Backend logic fundamentals such as app routing, request handling, HTTP methods usage in lightweight and high performance web app development with Flask and FastAPI
 - Asynchronous endpoints usage in high performance web app development with Fast API 
 - Secure user login credentials management such as password storing and hashing with Werkzeug, Passlib and bcrypt 
