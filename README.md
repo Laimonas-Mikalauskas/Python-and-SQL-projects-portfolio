@@ -1,7 +1,7 @@
 Introduction
 
 This repository shows practical application of core Python fundamentals with a focus on object-oriented programming (OOP) and asynchronous programming. Also it includes practical usage of SQL
-knowledge in database develiopment, data management and security. It includes multiple projects ranging from databases and back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth applications runtime by applying atttention to detail, creative, analytical thinking and problem solving skills
+statements, clauses, foreign key relationships, parameterized queries in relationsl database development, data management and security. It includes multiple projects ranging from databases and back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth web applications and game runtime by applying atttention to detail, creative, analytical thinking and problem solving skills
 
 Concepts
 
@@ -12,7 +12,7 @@ Concepts
 - Loop implementation (while, for) to ensure smooth database, web application and game runtime
 - Formatted console output for displaying processed data and SQL query results
 - Database schema design for structured data storage
-- Structured data storage support by implementing appropriate SQL data types 
+- Structured data storage support by implementing appropriate SQL data types such as string, integer, float within SQLite relational and SQLAlchemy ORM databases 
 - CRUD operations for efficient database record management 
 - Parameterized queries implementation to mitigate SQL injection attacks within SQLite relational database
 - ORM models and table relationships implementation to ensure scalable data management operations within SQLAlchemy ORM database
