@@ -1,6 +1,6 @@
 Introduction
 
-This repository shows practical application of core Python fundamentals such as object-oriented programming (OOP) and asynchronous programming in database and software development. Also it includes practical usage of SQL statements, clauses, foreign key relationships, parameterized queries in relationsl database development, data management and security. It includes multiple projects ranging from databases and back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth web applications and game runtime by applying atttention to detail, creative, analytical thinking and problem solving skills
+This repository shows practical application of core Python fundamentals such as formatted console output, data types, conditional statements, exception handling, loops, object-oriented programming (OOP) and asynchronous programming in database and software development. Also it includes practical usage of SQL statements, clauses, foreign key relationships, parameterized queries in relational database development, data management and security. It includes multiple projects ranging from databases and back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth web applications and game runtime by applying atttention to detail, creative, analytical thinking and problem solving skills
 
 Concepts
 
