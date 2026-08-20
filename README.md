@@ -4,7 +4,7 @@ This repository shows practical application of core Python fundamentals such as 
 
 Concepts
 
-- Object-Oriented-Programming (objects, classes, attributes, inheritance as core of OOP design)
+- Object-Oriented-Programming (objects, classes, attributes, methods, inheritance as core of OOP design)
 - Modular and maintainable code design
 - Error handling (try, except statements) in database, lightweight and high-performance web application, interactive game development 
 - Event-driven programming in interactive 2D game development (program start, events detection, continuous event loops, correct handler execution)
