@@ -43,7 +43,8 @@ that simulates real world book data management operations by using structured ob
 - Applied class-based architecture for structured and maintainable code design
 - Displayed SQL query results by implementing formatted console output
 - Applied control flow (while, for loops to execute program repeatedly) 
-- Prevented database crash by applying try except statements in error handling 
+- Implemented exception handling for database operations to prevent potential errors
+  and improve data management system reliability 
 - Performed CRUD operations for data storage, retrieval, update and deletion
 - Implemented ORM models and relationships between the objects for scalable data management           operations 
 
@@ -64,7 +65,8 @@ A class-based workplace data management and task tracking system for managing an
 - Applied class-based architecture to maintain and structure Python code design
 - Displayed SQL query results via formatted console output
 - Applied control flow (while, for loops to execute program repeatedly) 
-- Prevented database crash by applying try except statements in error handling 
+- Implemented exception handling for database operations to prevent potential errors
+  and improve data management system reliability 
 - Performed CRUD operations for user data storage, retrieval, update and deletion
 - Implemented SQLAlchemy ORM models and relationships for scalable and secure employee data           management operations 
 - Eliminated SQL injection risks by applying ORM-based parameterized queries
@@ -154,7 +156,7 @@ A high performance application-driven and database-integrated project to reinfor
 - Applied HTTP methods such as GET and POST to retrieve and submit customer info
 - Supported scalable item stock data management operations within FastAPI-SQLAlchemy by               implementing SQLAlchemy ORM models and table relationships 
 - Managed secure customer login credentials by implementing passsword hashing with bcrypt and         Passlib 
-- Implemented cryptography.Fernet encryption to secure bank account and payment card info within an online shopping application 
+- Implemented cryptography.Fernet authenticated symmetric data encryption to secure bank account and payment card info within an online shopping application 
 - Implemented FastAPI-SQLAlchemy database seeding with structured string, integer and float data      for tracking shopping app backend testing workflows within online plumbing equipment store      data management system
 
 5.3. Project structure:
