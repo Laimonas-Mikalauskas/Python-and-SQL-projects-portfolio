@@ -19,7 +19,7 @@ Concepts
 - Backend logic fundamentals such as app routing, request handling, HTTP methods usage in lightweight and high performance web app development with Flask and FastAPI
 - Asynchronous endpoints usage in high performance web app development with Fast API 
 - Secure user login credentials management such as password storing and hashing with Werkzeug, Passlib and bcrypt 
-- Sensitive information encryption such as bank account and shipping address information by applying authenticated symmetric data encryption with cryptography.Fernet
+- Sensitive data encryption such as bank account, debit card and shipping address information by applying authenticated symmetric data encryption by developing password managers with cryptography.Fernet
 - Simple interactive 2D game graphic design
 
   
