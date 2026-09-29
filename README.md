@@ -1,8 +1,8 @@
-Introduction
+# Introduction
 
 This repository shows practical application of core Python fundamentals such as formatted console output, data types, conditional statements, correct handler execution, loops, object-oriented programming (OOP) and asynchronous programming, authenticated symmetric data encryption in database and software development. Also it includes practical usage of SQL statements, clauses, foreign key relationships, parameterized queries in relational database development, data management and security. It includes multiple projects ranging from databases and back-end systems to interactive games that demonstrates clean code structure by ensuring scalability of data management operations and smooth web applications and game runtime by applying atttention to detail, creative, analytical thinking and problem solving skills
 
-Concepts
+# Concepts
 
 - Object-Oriented-Programming (objects, classes, attributes, methods, inheritance as core of OOP design)
 - Modular and maintainable code design
@@ -23,9 +23,9 @@ Concepts
 - Simple interactive 2D game graphic design
 
   
-Projects
+# Projects
 
-1. SQLAlchemy book library data management system
+# 1. SQLAlchemy book library data management system
 
 Real-world academic database development project 
 
@@ -48,7 +48,7 @@ that simulates real world book data management operations by using structured ob
 - Performed CRUD operations for data storage, retrieval, update and deletion
 - Implemented ORM models and relationships between the objects for scalable data management           operations 
 
-2. Front-end and back-end-driven developers workplace data management and task tracking system
+# 2. Front-end and back-end-driven developers workplace data management and task tracking system
 
 Real world personal full-stack project 
 
@@ -88,7 +88,7 @@ A class-based workplace data management and task tracking system for managing an
 - task_manager.html - creates web application page layout
 - task_manager.css - creates simple web application page design 
  
-3. Conway's Game Of Life
+# 3. Conway's Game Of Life
 
 Real world academic software project 
 
@@ -109,7 +109,7 @@ An implementation of Conway's Game Of Life by using objest-oriented programming 
 - Event driven input handling
 - Control flow (while, for loops)
 
-4. Space Shooter with Backend logic integration 
+# 4. Space Shooter with Backend logic integration 
 
 Real-world personal database and backend-integrated game project 
 
@@ -139,7 +139,7 @@ player, enemies and projectiles movement by simulating real battle
 - data.py - stores main player info such as scores, rankings, levels
 - app.py - performs game backend operations
 
-5. FastAPI and SQLalchemy-driven plumbing inventory stock data management and order status tracking system
+# 5. FastAPI and SQLalchemy-driven plumbing inventory stock data management and order status tracking system
 
 Type: Backend and database-driven high performance online shopping application
 
@@ -168,7 +168,7 @@ A high performance application-driven and database-integrated project to reinfor
 - shipment.py - handles package tracking logic
 - data.py - manages plumbing equipment current stock data
 
-6. SQLite book library data management system
+# 6. SQLite book library data management system
 
 Type: SQL database development fundamentals-based project  
 
@@ -190,7 +190,7 @@ Key features:
 - Eliminated SQL injection vulnerabilities to protect sensitive user data such as name, email, password by implementing parameterized queries
 
 
-8. Tech Stack
+# 8. Tech Stack
 
 - Python (data types, formatted console output, control flow, error handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures         database, lightweight web application and game design)
