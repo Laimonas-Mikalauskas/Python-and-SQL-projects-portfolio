@@ -190,7 +190,7 @@ Key features:
 - Eliminated SQL injection vulnerabilities to protect sensitive user data such as name, email, password by implementing parameterized queries
 
 
-# 8. Tech Stack
+# 7. Tech Stack
 
 - Python (data types, formatted console output, control flow, error handling)
 - OOP (classes, attributes and its initialisation, inheritance, encapsulation that structures         database, lightweight web application and game design)
