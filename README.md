@@ -41,7 +41,7 @@ that simulates real world book data management operations by using structured ob
 1.2 Key features added:
 
 - Applied class-based architecture for structured and maintainable code design
-- Displayed SQL query results by implementing formatted console output
+- Applied core Python data types to display processed data in the terminal
 - Applied control flow (while, for loops to execute program repeatedly) 
 - Implemented exception handling for database operations to prevent potential errors
   and improve data management system reliability 
