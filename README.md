@@ -9,7 +9,7 @@ This repository shows practical application of core Python fundamentals such as 
 - Error handling (try, except statements) in database, lightweight and high-performance web application, interactive game development 
 - Event-driven programming in interactive 2D game development (program start, events detection, continuous event loops, correct handler execution)
 - Loop implementation (while, for) to ensure smooth database, web application and game runtime
-- Formatted console output for displaying processed data and SQL query results
+- Formatted console output for displaying data and SQL query results
 - Database schema design for structured data storage
 - Structured data storage support by implementing appropriate SQL data types such as string, integer, float within SQLite relational and SQLAlchemy ORM databases 
 - CRUD operations for efficient database record management 
@@ -41,7 +41,7 @@ that simulates real world book data management operations by using structured ob
 1.2 Key features added:
 
 - Applied class-based architecture for structured and maintainable code design
-- Applied core Python data types to display processed data in the terminal
+- Applied core Python data types to display data in the terminal
 - Applied control flow (while, for loops to execute program repeatedly) 
 - Implemented exception handling for database operations to prevent potential errors
   and improve data management system reliability 
@@ -63,7 +63,7 @@ A class-based workplace data management and task tracking system for managing an
 2.2 Key features made:
 
 - Applied class-based architecture to maintain and structure Python code design
-- Applied core Python data types to display processed data in the terminal
+- Applied core Python data types to display data in the terminal
 - Applied control flow (while, for loops to execute program repeatedly) 
 - Implemented exception handling for database operations to prevent potential errors
   and improve data management system reliability 
