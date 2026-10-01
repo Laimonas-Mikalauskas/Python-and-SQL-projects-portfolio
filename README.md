@@ -63,7 +63,7 @@ A class-based workplace data management and task tracking system for managing an
 2.2 Key features made:
 
 - Applied class-based architecture to maintain and structure Python code design
-- Displayed SQL query results via formatted console output
+- Applied core Python data types to display processed data in the terminal
 - Applied control flow (while, for loops to execute program repeatedly) 
 - Implemented exception handling for database operations to prevent potential errors
   and improve data management system reliability 
